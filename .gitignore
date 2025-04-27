@@ -18,3 +18,7 @@ venv/
 *.log
 *.tmp
 *.bak
+
+input/*
+output/*
+ 
