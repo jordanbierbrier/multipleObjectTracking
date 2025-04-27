@@ -3,6 +3,11 @@
 
 ---
 
+## 📄 Full Report
+Find detailed report [here](report.pdf).
+
+---
+
 ## Demo
 ![Tracking Example](output/output.gif)
 
@@ -109,6 +114,3 @@ The pipeline follows the enhanced SORT framework, consisting of four major steps
     ```
     python track.py --input_path "input.mp4"
     ```
-
-## 📄 Full Report
-Find detailed report [here](report.pdf).
