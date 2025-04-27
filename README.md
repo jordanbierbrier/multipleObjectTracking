@@ -3,7 +3,7 @@
 
 ---
 
-<!-- ## Demo -->
+## Demo
 ![Tracking Example](output/output.gif)
 
 ## Abstract
