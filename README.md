@@ -11,6 +11,8 @@ Find detailed report [here](report.pdf).
 ## Demo
 ![Tracking Example](output/output.gif)
 
+---
+
 ## Abstract
 
 This repository contains the implementation of a multiple vehicle tracking system based on enhancements to the **Simple Online and Realtime Tracking (SORT)** algorithm. Key improvements include:
