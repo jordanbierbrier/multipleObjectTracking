@@ -8,7 +8,7 @@ Find detailed report [here](report.pdf).
 
 ---
 
-## Demo (It will load...)
+## Demo
 ![Tracking Example](output/output.gif)
 
 ---
