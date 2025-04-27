@@ -3,8 +3,8 @@
 
 ---
 
-## Demo
-<!-- ![Tracking Example](output/output.gif) -->
+<!-- ## Demo -->
+![Tracking Example](output/output.gif)
 
 ## Abstract
 
