@@ -5,6 +5,7 @@
 
 ## Demo
 ![Tracking Example](output/output.gif)
+![Tracking Example](output/demo_fast.gif)
 
 ## Abstract
 
