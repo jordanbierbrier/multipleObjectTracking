@@ -62,7 +62,15 @@ The pipeline follows the enhanced SORT framework, consisting of four major steps
     pip install -r requirements.txt
     ```
 
-3. **Available Command-Line Arguments**
+3.  **Download YOLOv3 configuration and weights:**
+
+    The tracker relies on YOLOv3 for object detection. Download the necessary files:
+    - **YOLOv3 configuration file (`yolov3.cfg`)**: [Download here](https://pjreddie.com/darknet/yolo/)
+    - **YOLOv3 pre-trained weights (`yolov3.weights`)**: [Download here](https://pjreddie.com/darknet/yolo/) 
+
+    Place both files in the project root directory.
+
+4. **Available Command-Line Arguments**
 
     You can view the help menu by running:
     ``` 
@@ -92,6 +100,11 @@ The pipeline follows the enhanced SORT framework, consisting of four major steps
                             Length of car track drawn to screen. Default 15
     --debug               Add debugging features. Default False
     --hide_rectangles     Hide bounding boxes of cars. Default False
+    ```
+
+5. **Sample Run**
+    ```
+    python track.py --input_path "input.mp4"
     ```
 
 ## 📄 Full Report
